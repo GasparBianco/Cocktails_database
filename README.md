@@ -1,0 +1,1 @@
+A partir de una base de datos inicial, se llevó a cabo un proceso de organización y limpieza que resultó en una versión mucho más utilizable y cómoda. Este proceso permitió optimizar la estructura y la calidad de los datos, creando un entorno propicio para análisis y manipulación más efectivos.
